@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPgUjiQ.jpg"},
+  {"desc2":"Minecraft mods are user-created modifications that add new features, mechanics, and content to the base game","photo2":"https://iili.io/HPgUhWx.jpg"},
+  {"desc3":"These mods are developed by talented individuals within the Minecraft community who dedicate their time and expertise to enhance the gameplay experience for players","photo3":"https://iili.io/HPgUVDb.jpg"},
+  {"desc4":"The popularity of mods has grown exponentially, with thousands of unique creations available for download across various platforms","photo4":"https://iili.io/HPgUXxj.jpg"},
+  {"desc5":"The Skibidi Toilet Minecraft Mod is a unique and lighthearted addition to the Minecraft modding scene","photo5":"https://iili.io/HPgUNfV.jpg"},
+  {"descd":"Developed by a talented modder, it introduces fully functional toilets to the Minecraft universe, bringing a touch of realism and humor to players' virtual bathrooms","photod":"https://iili.io/HPgSLAu.jpg"}
    ]
  
 }
